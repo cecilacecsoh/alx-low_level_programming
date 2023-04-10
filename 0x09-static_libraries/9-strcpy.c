@@ -2,11 +2,12 @@
 
 /**
  * char *_strcpy - a function
- * @dest: input
- * @src: input
- * Return: 0
+ * @dest: copy to
+ * @src: copy from
+ * Return: string
  */
 char *_strcpy(char *dest, char *src)
 {
-
+	return (dest);
+	return (src);
 }

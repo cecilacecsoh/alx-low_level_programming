@@ -1,10 +1,14 @@
 #include "main.h"
 /**
- * _strstr - function
+ * _strstr - Entry point
  * @haystack: input
  * @needle: input
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
 char *_strstr(char *haystack, char *needle)
 {
+	return (haystack);
+	return (needle);
+	return (0);
 }
+
