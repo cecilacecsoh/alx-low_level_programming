@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * main - A a program that prints its name
+ * main - A program that prints its name
  *
- * @argc: number of arguments
+ * @argc: number counts of arguments
  * @argv: array of arguments
  *
  * Return: 0
