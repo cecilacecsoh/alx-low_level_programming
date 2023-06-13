@@ -5,7 +5,7 @@
 /**
  * free_grid - function that frees a 2 dimensional grid
  *
- * @grid: 2d grid
+ * @grid: 2dim grid
  * @height: height grid
  *
  * Return: 0
