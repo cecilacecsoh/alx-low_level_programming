@@ -5,7 +5,7 @@
 /**
  * _strdup - returns a pointer to a newly allocated space in memory
  *
- * @str: the string
+ * @str: a string
  *
  * Return: NULL if str = NULL
  */
@@ -30,4 +30,3 @@ char *_strdup(char *str)
 
 	return (cha);
 }
-
