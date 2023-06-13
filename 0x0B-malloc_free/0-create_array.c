@@ -3,7 +3,7 @@
 
 /**
  * create_array - function creates an array of chars;
- *		and initializes it with specific char.
+ *		and  initializes it with specific char.
  *
  * @size: size of the array
  * @c: char to assign
