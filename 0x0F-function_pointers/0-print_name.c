@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-* print_name - print a name
+* print_name -  the function print a name
 *
-* @name: string input
+* @name: character pointer parameter
 * @f: pointer to function
 *
 * Return: void
