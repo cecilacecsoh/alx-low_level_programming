@@ -5,9 +5,9 @@
  * array_iterator - function that executes a function given as a parameter
  * on each element of an array.
  *
- * @array: array of integers
+ * @array:  pointer to array of integers
  * @size: size of the array
- * @action: pointer to the function
+ * @action: pointer to a function
  *
  * Return: void
  */
