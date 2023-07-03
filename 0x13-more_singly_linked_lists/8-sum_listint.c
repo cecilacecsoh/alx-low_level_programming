@@ -4,7 +4,8 @@
 #include "lists.h"
 
 /**
- * sum_listint - returns the sum of all the data (n) of listint_t linked list.
+ * sum_listint - returns the sum of all the data (n)
+ * 		 of listint_t linked list.
  *
  * @head: first node in listint_t linked list
  *

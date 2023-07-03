@@ -5,7 +5,7 @@
 
 /**
  * free_listint2 - frees a listint_t list.
- * The function sets the head to NULL
+ * 	function sets the head to NULL
  *
  * @head: pointer to pointer of listint_t list
  */
