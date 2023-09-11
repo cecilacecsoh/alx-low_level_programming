@@ -22,7 +22,7 @@ hash_table_set(hash_table_t *ht, const char *key, const char *value)
 	if (!ht || !key || !(*key) || !value)
 		return (0);
 
-	indx = key_indx((unsigned char *)key, ht->size);
+	indx = key_index((unsigned char *)key, ht->size);
 	tmp = ht->array[indx];
 
 	/* check if key exists */
